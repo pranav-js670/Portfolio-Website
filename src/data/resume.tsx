@@ -141,7 +141,7 @@ export const DATA = {
   projects: [
     {
       title: "Threadcraft AI",
-      href: "https://github.com/pranav-js670/Threadcraft-AI",
+      href: "https://github.com/pranav-js670/Threadcraft-AI-SaaS.git",
       active: true,
       description:
         "Built an AI-powered SaaS platform that auto-generates optimized social media content for Twitter, Instagram, and LinkedIn, leveraging Google Gemini AI for advanced NLP and personalized content creation.",
@@ -156,7 +156,7 @@ export const DATA = {
       links: [
         {
           type: "GitHub",
-          href: "https://github.com/pranav-js670/Threadcraft-AI",
+          href: "https://github.com/pranav-js670/Threadcraft-AI-SaaS.git",
           icon: <Icons.github className="size-3" />,
         },
       ],
@@ -165,7 +165,7 @@ export const DATA = {
     },
     {
       title: "Nexx-SaaS Feedback Widget",
-      href: "https://github.com/pranav-js670/Nexx-SaaS-Feedback-Widget",
+      href: "https://github.com/pranav-js670/Nexx-SaaS-product.git",
       dates: "June 2024 - Sept 2024",
       active: true,
       description:
@@ -175,7 +175,7 @@ export const DATA = {
       links: [
         {
           type: "GitHub",
-          href: "https://github.com/pranav-js670/Nexx-SaaS-Feedback-Widget",
+          href: "https://github.com/pranav-js670/Nexx-SaaS-product.git",
           icon: <Icons.github className="size-3" />,
         },
       ],
